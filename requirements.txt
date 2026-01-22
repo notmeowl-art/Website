@@ -6,3 +6,15 @@ blackboxprotobuf
 protobuf
 requests
 colorama
+builder
+Flask
+Jinja2
+Werkzeug
+itsdangerous
+click
+aiohttp
+PyJWT
+pycryptodome
+blackboxprotobuf
+protobuf==3.20.3
+colorama
